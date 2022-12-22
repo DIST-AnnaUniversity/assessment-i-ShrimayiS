@@ -47,9 +47,3 @@ print(round(new_pw,2))#round off to 2 decimal places
 
 
 
-
-
-
-
-
-
